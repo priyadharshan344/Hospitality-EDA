@@ -2,12 +2,13 @@
 
 ![](https://github.com/priyadharshan344/Hospitality-EDA/blob/main/Pic%20logo.png)
 
-Overview
+## Overview
+
 The hotel industry plays a pivotal role within the broader hospitality sector, serving as a cornerstone for tourism and business travel. In an increasingly competitive and customer-driven market, understanding data is essential for optimizing operations, enhancing guest experiences, and driving profitability. 
 
 By analyzing hotel performance data, this report uncovers patterns and insights that can help hotel managers and decision-makers identify opportunities for growth, address operational challenges, and improve service delivery. Additionally, the analysis provides a deeper understanding of guest behavior, booking preferences, and seasonal demand, enabling hotels to implement data-driven strategies for increased efficiency and guest satisfaction.
 
-Objectives
+## Objectives
 
 - Understand Revenue Generation Patterns:
 RevPAR (Revenue Per Available Room): Analyze revenue trends to assess overall hotel performance and profitability by evaluating how effectively rooms are being filled relative to the total available rooms.
