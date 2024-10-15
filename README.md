@@ -31,3 +31,7 @@ Realization: Examine the difference between projected and actual revenue from ro
 - Assess Occupancy Efficiency:
 Occupancy Percentage: Measure the percentage of available rooms that are occupied over a given period to evaluate the hotel’s capacity utilization and identify opportunities for improving occupancy rates.
 
+
+Dataset Link: [](https://github.com/priyadharshan344/Hospitality-EDA/blob/main/Files%20for%20git.zip)
+
+
