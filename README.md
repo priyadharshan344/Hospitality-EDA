@@ -36,7 +36,7 @@ Occupancy Percentage: Measure the percentage of available rooms that are occupie
 Dataset Link: [Dataset](https://github.com/priyadharshan344/Hospitality-EDA/blob/main/Files%20for%20git.zip)
 
 
-Sorce project file: []
+Sorce project file: [BI File](https://github.com/priyadharshan344/Hospitality-EDA/blob/main/Hospit%202.pbix)
 
 
 
